@@ -5,4 +5,4 @@
 
 
 
-![Alt text](gradio-app.jpg)
+![Alt text](gradio-app.png)
